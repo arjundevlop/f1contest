@@ -1,0 +1,38 @@
+.photo{
+width: 1051px;
+height: 762px;
+left: 58px;
+}
+
+.blog{
+    width: 1643px;
+    height: 648.57px;
+    top: 47px;
+    left: 38px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    font-size: 40px;
+}
+.para{
+    font-size: 40px;
+}
+.linktext{
+    font-size: 40px;
+}
+
+
+.trivia{
+    position: absolute;
+width: 1623px;
+height: 469px;
+left: 58px;
+top: 1795px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 77px;
+
+color: #000000;
+}
